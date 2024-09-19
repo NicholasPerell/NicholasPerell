@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|  | |
+|---|---|
+| **Tech** | `C#` `Git` `Svelte` `C++` `TypeScript` `Unity` `Ink` `Yarn Spinner`|
+| **Favorite Albums** | `The Stranger`  `Les Cinq Saisons` `Knife Man`|
