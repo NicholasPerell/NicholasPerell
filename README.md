@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 -->
 |  | |
 |---|---|
+| **Pronouns** | he/him |
 | **Tech** | `C#` `Git` `Svelte` `C++` `TypeScript` `Unity` `Ink` `Yarn Spinner` `Adobe InDesign` |
 | **Worked On**| [`Artemis`](https://github.com/NicholasPerell/Artemis) [`Addagrams`](https://addagrams.com/) [`Project Nautilus`](https://store.steampowered.com/app/1953870/Project_Nautilus/) [`Willard & Maple`](https://issuu.com/willardandmaplelitmag)|
 | **Favorite Albums** | `The Stranger`  `Les Cinq Saisons` `Knife Man`|
