@@ -9,7 +9,9 @@
 I'm a junior software developer & game programmer working at Virtual Maker.
 I collaborate intentionally with my team to give users an experience that communicates a sense of care was put behind it. Experienced with game AI, UI, systems, and gameplay programming. Well-versed in narrative structure, management, and writing.
 
-[![NicholasPerell's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasPerell)](https://github.com/anuraghazra/github-readme-stats)
+[![NicholasPerell's GitHub stats](https://github-readme-stats-nicholasperells-projects.vercel.app/api?username=NicholasPerell)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-nicholasperells-projects.vercel.app/api/top-langs/?username=NicholasPerell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NicholasPerell/NicholasPerell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
