@@ -11,8 +11,6 @@ I collaborate intentionally with my team to give users an experience that commun
 
 [![NicholasPerell's GitHub stats](https://github-readme-stats-nicholasperells-projects.vercel.app/api?username=NicholasPerell)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-nicholasperells-projects.vercel.app/api/top-langs/?username=NicholasPerell)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **NicholasPerell/NicholasPerell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
