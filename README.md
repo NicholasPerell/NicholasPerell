@@ -1,5 +1,5 @@
 <div>
-<a href="https://www.nicholasperell.com/"><img src="https://nicholasperell.vercel.app/favicon.png" alt="Website" title="Website" height="30"/></a>
+<a href="http://www.nicholasperell.com/"><img src="https://nicholasperell.vercel.app/favicon.png" alt="Website" title="Website" height="30"/></a>
 &ensp;<a href="https://www.linkedin.com/in/nicholasperell/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" title="LinkedIn" height="30"/></a>
 &ensp;<a href="https://www.virtualmaker.dev/"><img src="https://www.virtualmaker.dev/images/favicon.svg" alt="Virtual Maker" title="Virtual Maker (Work with us!)" height="30"/></a>
 </div>
